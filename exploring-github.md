@@ -17,3 +17,9 @@
 - code .
 - clear
 - history
+
+## Git Commands
+- git status
+- git add "filename"
+- git commit -m "message communicating intent for commit"
+- git push origin "branchname"
